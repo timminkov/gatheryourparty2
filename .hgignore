@@ -1,0 +1,9 @@
+syntax: glob
+plugins/akismet/
+plugins\hello.php
+plugins\index.php
+themes/twentyeleven/
+themes\twentytwelve\author.php
+themes/twentytwelve/
+themes\index.php
+updraft/log.7d5221ce6197.txt
