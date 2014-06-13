@@ -13,10 +13,10 @@ Gather Your Party is a community-driven website for aggregating entertaining and
 6. Fill out the database info in wp-config.php using 127.0.0.1/root/root/<dbname>
 
 ### TODO
-[ ] Search bar shouldn't appear until page loads
-[ ] Fix captions
+* [ ] Search bar shouldn't appear until page loads
+* [ ] Fix captions
 
 ### Optional design changes
-[ ] Banner takes up too much space
-[ ] Search bar in header (non-JS)
-[ ] Remove placeholder from search bar
+* [ ] Banner takes up too much space
+* [ ] Search bar in header (non-JS)
+* [ ] Remove placeholder from search bar
